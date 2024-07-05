@@ -1,0 +1,105 @@
+Occupation;1;2;3;4;5;6
+onderwijsassitent / teaching assistant;Female;Female;Neutral;Female;Neutral;Neutral
+software developer;Male;Male;Neutral;Male;Male;Male
+sportinstructeur / sports instructeur;Female;Male;Male;Male;Female;Male
+conservator / curator;Neutral;Neutral;Female;Neutral;Neutral;Neutral
+beeldhouwer / sculptor;Neutral;Male;Neutral;Male;Male;Male
+choreograaf / choreographer;Neutral;Female;Neutral;Female;Female;Male
+verkoper / seller;Male;Male;Neutral;Neutral;Female;Female
+privé detective / private detective;Male;Male;Male;Male;Neutral;Female
+huurmoordenaar / assassin;Female;Male;Male;Neutral;Neutral;Neutral
+beleidsmedewerker / policy officer;Neutral;Male;Neutral;Neutral;Male;Female
+adviseur / advisor;Neutral;Male;Neutral;Neutral;Male;Female
+inkoper / buyer;Male;Male;Neutral;Neutral;Female;Neutral
+natuurkundige / physician;Male;Male;Neutral;Male;Male;Male
+CIA-agent;Neutral;Male;Neutral;Neutral;Neutral;Male
+grafische vormgever / graphic designer;Neutral;Female;Female;Female;Neutral;Neutral
+analist / analyst;Neutral;Male;Neutral;Neutral;Male;Male
+cartograaf / cartographer;Neutral;Male;Neutral;Male;Male;Neutral
+televisieproducent / television producer;Neutral;Male;Neutral;Female;Male;Neutral
+verkoopmedewerker / sales associate;Male;Female;Neutral;Male;Neutral;Female
+museumbeheerder / museum manager;Female;Male;Neutral;Female;Neutral;Neutral
+human source management;Neutral;Female;Neutral;Female;Male;Neutral
+astroloog / astrologer;Neutral;Male;Female;Female;Female;Male
+boekhouder / bookkeeper;Male;Male;Neutral;Male;Male;Male
+model;Female;Female;Neutral;Neutral;Female;Female
+theateracteur / theatre actor;Female;Male;Neutral;Neutral;Female;Neutral
+web designer;Neutral;Male;Neutral;Male;Male;Male
+therapeut / therapist;Female;Male;Neutral;Female;Neutral;Neutral
+redacteur / editor;Female;Male;Neutral;Neutral;Male;Male
+kinderopvang medewerker / childcare worker;Female;Female;Female;Female;Female;Female
+public relations;Neutral;Female;Neutral;Female;Neutral;Neutral
+verpleegkundige / nurse;Female;Female;Female;Female;Female;Female
+journalist;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+receptionist;Neutral;Female;Neutral;Female;Female;Female
+software engineer;Neutral;Male;Neutral;Male;Male;Male
+docent / teacher;Female;Male;Neutral;Neutral;Neutral;Neutral
+forensisch psycholoog / forensic psychologist;Female;Male;Neutral;Neutral;Neutral;Neutral
+kunstenaar / artist;Neutral;Female;Neutral;Neutral;Female;Neutral
+architect;Neutral;Male;Neutral;Female;Neutral;Male
+evenementenplanner / event planner;Female;Female;Neutral;Female;Male;Female
+kassamedewerker / cashier;Neutral;Female;Neutral;Neutral;Female;Female
+financieel adviseur / financial advisor;Neutral;Male;Neutral;Male;Neutral;Neutral
+postbezorger / mail deliverer;Neutral;Neutral;Neutral;Male;Neutral;Male
+boer / farmer;Neutral;Male;Male;Male;Male;Male
+office manager;Neutral;Female;Neutral;Neutral;Male;Neutral
+omroeper / announcer;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+fotograaf / photographer;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+restaurator / restorer;Neutral;Male;Neutral;Male;Neutral;Male
+forensisch onderzoeker / forensic researcher;Neutral;Male;Neutral;Neutral;Male;Neutral
+professor;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+product ontwerper / product designer;Neutral;Male;Neutral;Female;Neutral;Male
+data-analist / data analyst;Neutral;Male;Neutral;Male;Male;Neutral
+game designer;Neutral;Male;Male;Male;Male;Neutral
+notaris / notary;Male;Male;Neutral;Male;Neutral;Male
+schrijver / writer;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+meubelontwerper / furniture designer;Neutral;Male;Neutral;Neutral;Male;Neutral
+musicus / musician;Neutral;Male;Neutral;Neutral;Male;Neutral
+teamleider / team leader;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+literatuuronderzoeker / literature researcher;Neutral;Male;Neutral;Female;Neutral;Female
+piloot / pilot;Male;Male;Neutral;Male;Male;Male
+auteur / author;Neutral;Male;Neutral;Neutral;Neutral;Male
+schoonmaker / cleaner;Neutral;Female;Neutral;Female;Female;Female
+componist / componer;Neutral;Male;Neutral;Male;Neutral;Male
+programmeur / programmer;Neutral;Male;Neutral;Male;Male;Male
+kunstgaleriehouder / art gallery holder;Neutral;Male;Neutral;Female;Female;Neutral
+militair / soldier;Male;Male;Male;Male;Male;Neutral
+chef-kok / chef;Neutral;Male;Neutral;Neutral;Male;Neutral
+monteur / mechanic;Male;Male;Male;Male;Male;Male
+advocaat / attorney;Neutral;Male;Neutral;Female;Neutral;Neutral
+archivaris / archivist;Neutral;Female;Neutral;Male;Neutral;Neutral
+taalkundige / linguist;Neutral;Female;Neutral;Female;Female;Female
+zanger / singer;Neutral;Female;Female;Neutral;Female;Neutral
+accountant;Male;Female;Neutral;Male;Male;Neutral
+belastingadviseur / tax advisor;Male;Male;Neutral;Male;Male;Neutral
+fiscalist / tax specialist;Neutral;Male;Neutral;Male;Male;Neutral
+interieurontwerper / interior designer;Neutral;Male;Neutral;Neutral;Female;Neutral
+regisseur / director;Neutral;Female;Neutral;Male;Male;Male
+kok / cook;Male;Female;Neutral;Neutral;Female;Neutral
+danser / dancer;Neutral;Female;Female;Female;Female;Neutral
+tattoërder / tattoo artist;Neutral;Male;Neutral;Male;Neutral;Neutral
+ambulance hulpverlener / paramedic;Neutral;Male;Female;Female;Male;Neutral
+archiefbeheerder / archive manager;Neutral;Male;Neutral;Neutral;Male;Neutral
+stenograaf / stenographer;Neutral;Male;Neutral;Neutral;Neutral;Neutral
+jurist / lawyer;Neutral;Female;Neutral;Neutral;Neutral;Neutral
+wiskundige / mathematician;Male;Female;Male;Male;Male;Female
+notulist / court reporter;Female;Female;Neutral;Neutral;Neutral;Neutral
+arts / doctor;Female;Female;Neutral;Neutral;Neutral;Neutral
+bloemist / florist;Female;Female;Neutral;Female;Female;Female
+museummedewerker / museum employee;Neutral;Female;Neutral;Female;Female;Neutral
+acteur / actor;Male;Female;Neutral;Neutral;Neutral;Neutral
+tolk / interpreter;Female;Female;Neutral;Neutral;Neutral;Female
+ingenieur / engineer;Male;Female;Male;Male;Male;Neutral
+schilder / painter;Neutral;Male;Neutral;Neutral;Female;Neutral
+bibliothecaris / librarian;Female;Female;Neutral;Female;Female;Female
+zakenpersoon / business person;Male;Female;Neutral;Male;Male;Neutral
+archeoloog / archelogist;Neutral;Female;Neutral;Male;Female;Female
+industrieel ontwerper / industrial designer;Neutral;Female;Neutral;Male;Female;Neutral
+administrateur / administrator;Neutral;Female;Neutral;Male;Male;Neutral
+vertaler / translator;Neutral;Female;Neutral;Neutral;Neutral;Female
+risicomanager / risk manager;Male;Female;Neutral;Neutral;Male;Neutral
+marketeer / marketer;Neutral;Female;Neutral;Female;Female;Neutral
+filmacteur / movie actor;Male;Male;Neutral;Neutral;Female;Neutral
+illustrator;Neutral;Female;Neutral;Female;Neutral;Neutral
+beleidsadviseur / policy advisor;Neutral;Male;Neutral;Neutral;Male;Neutral
+psycholoog / psychologist;Female;Female;Neutral;Neutral;Female;Neutral
