@@ -8,6 +8,6 @@
 - `generate_fw_data.ipynb`: notebook for processing datasets to extract adjectives and verbs, divided by genres using the `fighting_words.py' script.
 - `fw_analysis.ipynb`: notebook for comparing "Fightin' Word Scores" between GPT-3.5 and Llama 2 using scatter plots.
 - `human_data_analysis.ipynb`: notebook for analysing human survey data and comparing it with GPT-3.5 and Llama 2 datasets.
-- `data`: this directory Includes both raw and processed data for GPT-3.5 and Llama 2, along with a `fw_data` directory specifically for the Fightin' Words data.
+- `data`: this directory includes both raw and processed data for GPT-3.5 and Llama 2, along with a `fw_data` directory specifically for the Fightin' Words data.
 - `plots`: this directory contains the plots that are also included in the Appendix.
 
